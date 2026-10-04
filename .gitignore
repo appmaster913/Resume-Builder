@@ -29,7 +29,6 @@ packages/
 
 # Visual Studio / VS Code / Rider / JetBrains
 .vs/
-.vscode/
 .idea/
 _ReSharper*/
 *.DotSettings.user
@@ -79,3 +78,5 @@ $RECYCLE.BIN/
 
 # Sample and debug document output produced by tests\ResumeStyleTests
 output/
+config.bat
+node_modules
